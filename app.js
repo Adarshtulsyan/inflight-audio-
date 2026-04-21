@@ -15,7 +15,7 @@ let timeoutId = null;
 let audioReady = false;
 let earphonesConfirmed = false;
 
-const GLOBAL_START_TIME = new Date("2026-04-20T18:20:00").getTime();
+const GLOBAL_START_TIME = new Date("2026-04-21T17:25:00").getTime();
 
 // ── Earphone confirmation ─────────────────────────────────────────────────────
 
